@@ -7,7 +7,6 @@ Understanding what factors affect Airbnb bookings, prices, and customer satisfac
 
 🧩 Objectives
 Clean and analyze Airbnb data.
-
 Visualize booking and pricing trends.
 Identify popular areas and room types.
 Provide actionable insights for hosts and managers.
